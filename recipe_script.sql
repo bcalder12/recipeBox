@@ -1,3 +1,5 @@
+-- script to initialize normalized recipe database --
+
 CREATE DATABASE IF NOT EXISTS myrecipes;
 
 USE myrecipes;
